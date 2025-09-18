@@ -1,0 +1,12 @@
+node_modules/
+dist/
+
+/target/
+**/*.rs.bk
+
+src-tauri/target/
+
+.vscode/
+
+*.db
+*.sqlite
